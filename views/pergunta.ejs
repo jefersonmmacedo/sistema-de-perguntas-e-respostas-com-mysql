@@ -11,8 +11,6 @@
             <div class="card-body">
               <h6 class="card-title"><%= pergunta.pergunta%></h6>
             <p><%= pergunta.autor%></p>
-            <hr>
-            <a href="#" class="btn btn-info">Responder</a>
             </div>
             </div>
 
@@ -35,7 +33,7 @@
             <div class="bloco3">
             <form action="/salvarresposta" method="POST">
                  <div class="form-group">
-                 <textarea name="resposta" id="resposta" name="resposta" class="form-control" cols="10" rows="2"  placeholder="Digite aqui sua reposta"></textarea>
+                 <textarea name="resposta" id="resposta" name="resposta" class="form-control" cols="10" rows="2"  placeholder="Digite aqui sua resposta"></textarea>
                   </div>
                 <div class="form-group">
                  <input type="text" class="form-control" id="autorResposta" name="autorResposta" placeholder="Nome do autor da resposta">
