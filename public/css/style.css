@@ -1,0 +1,102 @@
+body{
+    background-color: #ececec;
+    
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
+
+.bloco2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    text-align: center;  
+}
+
+.bloco2 a {
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    color: #17A2B8;
+}
+
+.bloco{
+    margin-top:40px;
+    border-radius: 10px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border: 1px solid rgb(207, 207, 207);
+    box-shadow: 5px 5px 5px  rgba(0,0,0,0.1);
+    background-color: #f5f5f5;
+}
+
+.bloco form{
+    box-shadow: rgb(194, 194, 194);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3%;
+}
+
+.bloco3{
+    margin-top:30px;
+    margin-bottom:70px;
+    border-radius: 10px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 1px solid rgb(207, 207, 207);
+    box-shadow: 5px 5px 5px  rgba(0,0,0,0.1);
+    background-color: #f5f5f5;
+}
+
+.bloco3 form{
+    box-shadow: rgb(194, 194, 194);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+  }
+
+  .card {
+      width: 90%;
+    margin-top:30px;
+      margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 5px  rgba(0,0,0,0.1);
+  }
+
+  .card .card-header{
+      background-color: #17A2B8;
+      color: #ffffff;
+  }
+
+ .bloco4{
+     width: 95%;
+     margin-left: auto;
+    margin-right: auto;
+ }
+ 
+ .card a {
+    text-decoration: none;
+    color: #ffffff;
+ }
+
+ .card a:hover {
+    text-decoration: none;
+    color: #f0f0f0;
+ }
